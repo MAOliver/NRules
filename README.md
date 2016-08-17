@@ -1,1 +1,1 @@
-"# NRules" 
+# NRules
