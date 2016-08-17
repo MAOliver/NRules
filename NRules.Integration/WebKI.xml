@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Activate method" Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator_Activate.htm" />
+  <HelpKINode Title="AutofacDependencyResolver class">
+    <HelpKINode Title="AutofacDependencyResolver Class" Url="html/T_NRules_Integration_Autofac_AutofacDependencyResolver.htm" />
+    <HelpKINode Title="about AutofacDependencyResolver class" Url="html/T_NRules_Integration_Autofac_AutofacDependencyResolver.htm" />
+    <HelpKINode Title="constructor" Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_NRules_Integration_Autofac_AutofacDependencyResolver.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AutofacDependencyResolver.AutofacDependencyResolver constructor" Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver__ctor.htm" />
+  <HelpKINode Title="AutofacDependencyResolver.Resolve method" Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver_Resolve.htm" />
+  <HelpKINode Title="AutofacRuleActivator class">
+    <HelpKINode Title="AutofacRuleActivator Class" Url="html/T_NRules_Integration_Autofac_AutofacRuleActivator.htm" />
+    <HelpKINode Title="about AutofacRuleActivator class" Url="html/T_NRules_Integration_Autofac_AutofacRuleActivator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_NRules_Integration_Autofac_AutofacRuleActivator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AutofacRuleActivator.Activate method" Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator_Activate.htm" />
+  <HelpKINode Title="AutofacRuleActivator.AutofacRuleActivator constructor" Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator__ctor.htm" />
+  <HelpKINode Title="NRules.Integration.Autofac namespace" Url="html/N_NRules_Integration_Autofac.htm" />
+  <HelpKINode Title="NRules.Integration.Autofac.AutofacDependencyResolver class" Url="html/T_NRules_Integration_Autofac_AutofacDependencyResolver.htm" />
+  <HelpKINode Title="NRules.Integration.Autofac.AutofacRuleActivator class" Url="html/T_NRules_Integration_Autofac_AutofacRuleActivator.htm" />
+  <HelpKINode Title="NRules.Integration.Autofac.RegistrationExtensions class" Url="html/T_NRules_Integration_Autofac_RegistrationExtensions.htm" />
+  <HelpKINode Title="RegisterRepository method" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRepository.htm" />
+  <HelpKINode Title="RegisterRules method" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRules.htm" />
+  <HelpKINode Title="RegisterSession method" Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSession.htm" />
+  <HelpKINode Title="RegisterSessionFactory method" Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSessionFactory.htm" />
+  <HelpKINode Title="RegistrationExtensions class">
+    <HelpKINode Title="RegistrationExtensions Class" Url="html/T_NRules_Integration_Autofac_RegistrationExtensions.htm" />
+    <HelpKINode Title="about RegistrationExtensions class" Url="html/T_NRules_Integration_Autofac_RegistrationExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_NRules_Integration_Autofac_RegistrationExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegistrationExtensions.RegisterRepository method" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRepository.htm" />
+  <HelpKINode Title="RegistrationExtensions.RegisterRules method" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRules.htm" />
+  <HelpKINode Title="RegistrationExtensions.RegisterSession method" Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSession.htm" />
+  <HelpKINode Title="RegistrationExtensions.RegisterSessionFactory method" Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSessionFactory.htm" />
+  <HelpKINode Title="Resolve method" Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver_Resolve.htm" />
+</HelpKI>

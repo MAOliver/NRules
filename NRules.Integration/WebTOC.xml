@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="687c9bdb-43c9-4d82-b19c-c24c955d97af" Title="Namespaces" Url="html/R_Project_NRules.htm">
+    <HelpTOCNode Id="255e96ad-aad6-45e9-8f9b-f4d6bde81b96" Title="NRules.Integration.Autofac" Url="html/N_NRules_Integration_Autofac.htm">
+      <HelpTOCNode Id="494afc7f-ac13-41ee-95c1-395674cd98a8" Title="AutofacDependencyResolver Class" Url="html/T_NRules_Integration_Autofac_AutofacDependencyResolver.htm">
+        <HelpTOCNode Title="AutofacDependencyResolver Constructor " Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver__ctor.htm" />
+        <HelpTOCNode Id="84b6d4a1-453b-40eb-bbc3-9fb502a770d9" Title="AutofacDependencyResolver Methods" Url="html/Methods_T_NRules_Integration_Autofac_AutofacDependencyResolver.htm">
+          <HelpTOCNode Title="Resolve Method " Url="html/M_NRules_Integration_Autofac_AutofacDependencyResolver_Resolve.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f42e71aa-35f8-4aa3-819e-8d43d653ab50" Title="AutofacRuleActivator Class" Url="html/T_NRules_Integration_Autofac_AutofacRuleActivator.htm">
+        <HelpTOCNode Title="AutofacRuleActivator Constructor " Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator__ctor.htm" />
+        <HelpTOCNode Id="12826088-90d7-4a01-a96f-e95da1656cf2" Title="AutofacRuleActivator Methods" Url="html/Methods_T_NRules_Integration_Autofac_AutofacRuleActivator.htm">
+          <HelpTOCNode Title="Activate Method " Url="html/M_NRules_Integration_Autofac_AutofacRuleActivator_Activate.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b85bd885-889d-4b64-ab88-1c1f7d61fc2c" Title="RegistrationExtensions Class" Url="html/T_NRules_Integration_Autofac_RegistrationExtensions.htm">
+        <HelpTOCNode Id="7bbe132b-fb37-414c-9893-c57b29dac350" Title="RegistrationExtensions Methods" Url="html/Methods_T_NRules_Integration_Autofac_RegistrationExtensions.htm">
+          <HelpTOCNode Title="RegisterRepository Method " Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRepository.htm" />
+          <HelpTOCNode Title="RegisterRules Method " Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterRules.htm" />
+          <HelpTOCNode Id="80705a6b-492b-40f4-980f-9b1b4a0d2e4a" Title="RegisterSession Method " Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSession.htm">
+            <HelpTOCNode Title="RegisterSession Method (ContainerBuilder)" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterSession.htm" />
+            <HelpTOCNode Title="RegisterSession Method (ContainerBuilder, Func(IComponentContext, ISession))" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterSession_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="339e25d2-3815-49e3-a9fa-a65546e51816" Title="RegisterSessionFactory Method " Url="html/Overload_NRules_Integration_Autofac_RegistrationExtensions_RegisterSessionFactory.htm">
+            <HelpTOCNode Title="RegisterSessionFactory Method (ContainerBuilder)" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterSessionFactory.htm" />
+            <HelpTOCNode Title="RegisterSessionFactory Method (ContainerBuilder, Func(IComponentContext, ISessionFactory))" Url="html/M_NRules_Integration_Autofac_RegistrationExtensions_RegisterSessionFactory_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
